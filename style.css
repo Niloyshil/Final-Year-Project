@@ -73,6 +73,7 @@ h3{
   position: relative;
     font-family: 'Kalam', cursive;
     margin: auto;
+    padding-bottom: 2%;
    
 }
 h3:before {
@@ -107,3 +108,5 @@ h3:after {
 	margin-left: 60px;
 	font-family: 'Damion', cursive;
 }
+/*search*/
+
